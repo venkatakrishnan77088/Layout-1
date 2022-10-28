@@ -1,0 +1,284 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+.header{
+	background-color:blue;
+}
+.header .header-fc{
+	display:flex;
+	justify-content:space-between;
+}
+.header-fc .headerl{
+	height:43px;
+	width:38px;
+}
+.header .header-fc .headerr{
+	height:43px;
+	width:48px;
+}
+.header-fc .headerc{
+	height:43px;
+	width:371px;
+
+}
+.title{
+	background-color:white;
+}
+.title-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#D07756;
+}
+.title-fc .title-head{
+	width:100%;
+	height:128px;
+	text-align:center;
+}
+.title-fc .title-para{
+	height:29px;
+	width:100%;
+	text-align:center;
+}
+.title-relate-box{
+	background-color:white;
+}
+.title-relate-box-fc{
+	display:flex;
+	justify-content:center;
+	background-color:yellow;
+}
+.title-relate-box-fc .title-item{
+	width:196px;
+	height:162px;
+}
+.relative-session{
+	background-color:white;
+}
+.relative-session-fc{
+	display:flex;
+	background-color:green;
+	justify-content:space-between;
+}
+.relative-session-fc .sesion-para{
+	width:660px;
+	height:447px;
+	background-color:red;
+}
+.relative-session-fc .sesion-image{
+	height:447px;
+	width:636px;
+}
+.clints{
+	background-color:white;
+}
+.clints .clints-fc{
+	display:flex;
+	justify-content:space-evenly;
+	background-color:#8256D0;
+}
+.clints .clints-fc .clints-text{
+	width:100%;
+	height:68px;
+}
+.add{
+	background-color:white;
+}
+.add-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#139235;
+}
+.add-fc .add-image{
+	width:660px;
+	height:458px;
+	background-color:#873600;
+}
+.add-fc .add-text{
+	height:458px;
+	width:660px;
+}
+.service{
+	background-color:white;
+}
+.service-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	background-color:#9C640C
+}
+.service-fc .service-head{
+	width:100%;
+	height:54px;
+}
+.service-fc .service-doc{
+	width:33.33%;
+	height:338px;
+	background-color:#2874A6;
+	text-align:center;
+
+}
+.call-to-action{
+	background-color:white;
+}
+.call-to-action-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#979A9A;
+}
+.call-to-action-fc .call-head{
+	width:100%;
+	text-align:center;
+	height:34px;
+}
+.call-to-action-fc .call-para{
+	width:100%;
+	height:48px;
+	
+}
+.call-to-action-fc .call-button{
+	border:1px solid red;
+	padding:20px;
+	width:176px;
+	text-align:center;
+}
+.portfilio{
+	background-color:white;
+}
+.portfilio-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#6C3483;
+}
+.portfilio-fc .portfilio-heading
+{
+	width:100%;
+	height:54px;
+}
+.portfilio-fc .portfilio-image{
+	width:33.33%;
+	height:422px;
+}
+.work-pic{
+	background-color:white;
+}
+.work-pic-fc{
+	background-color:#148F77;
+	display:flex;
+}
+.work-pic-fc .photo{
+	width:50%;
+	height:432px;
+	text-align:center;
+}
+.work-pic-fc .work-para{
+	width:50%;
+	height:432px;
+	text-align:center;
+}
+.author{
+	background-color:white;
+}
+.author-fc{
+	display:flex;
+	background-color:#943126;
+	flex-wrap:wrap;
+}
+.author-fc .author-img{
+	width:100%;
+	height:100px;
+	text-align:center;
+}
+.author-fc .author-name{
+	width:100%;
+	height:24px;
+	text-align:center;
+}
+.author-fc .author-proffesion{
+	width:100%;
+	height:17px;
+	text-align:center;
+}
+.author-fc .author-quotes{
+	width:100%;
+	height:60px;
+}
+.check-our-team{
+	background-color:white;
+}
+.check-our-team-fc{
+	display:flex;
+	justify-content:space-evenly;
+	background-color:#FFBF00;
+	flex-wrap:wrap;
+}
+.check-our-team-heading{
+	width:100%;
+	height:54px;
+}
+ .check-our-team-fc .team-profile{
+	 width:20%;
+	 height:306px;
+ }
+ .contact-us{
+	 background-color:white;
+ }
+ .contact-us-fc{
+	 display:flex;
+	 background-color:#9FE2BF;
+	 flex-wrap:wrap;
+ }
+ .contact-us-fc .contact-us-head{
+	 width:100%;
+	 height:54px;
+ }
+ .contact-us-fc .map{
+	 background-color:blue;
+	 height:200px;
+	 width:100%;
+	 text-align:center;
+ }
+ .user-details{
+	 background-color:white;
+ }
+ .user-details-fc{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-between;
+	 background-color:#DE3163;
+ }
+ .user-details-fc .usermain{
+	 width:50%;
+	 height:331px;
+	 text-align:center;
+ }
+ .user-details-fc .usersub{
+	 width:50%;
+	 height:331px;
+	 text-align:center;
+ }
+.footer{
+	background-color:white;
+}
+.footer-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#7BEACF;
+}
+.footer-fc .foot-gp{
+	height:224px;
+	width:306px;
+}
+.footer-fc .foot-uselink{
+width:220px;
+height:224px;
+}
+.footer-fc .foot-ourservice{
+	height:224px;
+	width:330px;
+}
+.footer-fc .foot-newsletter{
+	width:430px;
+	height:224px;
+}
+	
